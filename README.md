@@ -9,6 +9,6 @@ Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, and Yong Guan. "EviHunter:
   - Dynamic paths: The path tag <intent> is used whenever EviHunter cannot statically parse the exact data (string) from the ICC bundles.
   
   ## Publication
-  [EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis](https://www.iastate.edu), Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, Yong Guan, ACM Conference on Computer and Communications Security (CCS), 2018 
+  Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, and Yong Guan. "EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis". In ACM Conference on Computer and Communications Security (CCS), 2018.
   
   ## Contacts
