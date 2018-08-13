@@ -1,5 +1,7 @@
 # EviHunter
-This repository hosts the technical document of EviHunter, a static program analysis tool built to determine the location and type of evidentiary data in the file system of mobile devices.
+This repository hosts the sources and sinks used by EviHunter, a static program analysis tool for forensic analysis of the file systems on Android devices. If you use these sources/sinks, please cite the following paper:
+
+Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, and Yong Guan. "EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis". In ACM Conference on Computer and Communications Security (CCS), 2018.
 
   ## Documents
   - Source Methods: Represent the types of evidence, used in both the reported evidentiary data types and constructing the file paths.
