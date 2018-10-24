@@ -11,4 +11,6 @@ Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, and Yong Guan. "EviHunter:
   ## Publication
   Chris Chao-Chun Cheng, Chen Shi, Neil Zhenqiang Gong, and Yong Guan. "EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis". In ACM Conference on Computer and Communications Security (CCS), 2018.
   
+Link to our [presentation slides](https://drive.google.com/file/d/1BuVSfVueBKidzo8T1cYBQB9jjR7QJuXH/view?usp=sharing) in ACM CCS 2018 in Toronto, Canada.
+  
   ## Contacts
